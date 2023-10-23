@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Merriweather+Sans:ital@1&family=Merriweather:wght@700&family=Roboto:wght@700;900&display=swap');
+.container{
+text-align: center;
+background-color: whitesmoke;
+}
+h1{
+    color: red;
+    font-family:'Clicker Script',cursive;
+    font-size: 50px;
+}
+.calculator{
+     display: inline-block;
+    border: 10px solid black;
+    padding: 15px ;
+    background-color:whitesmoke;
+    border-radius: 10px;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 26px;
+    width: auto;
+    background-color: gray;
+    border: 3px solid gray;
+    border-radius: 5px;
+    height: 50px;
+    color: white;
+}
+button{
+    font-size: 22.1px;
+    width: 70px;
+    height: 50px;
+    background-color: black;
+    color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 4px;
+
+}
+ .operation{
+    background-color:rgba(255, 0, 0, 0.699);
+    color: black;
+}
